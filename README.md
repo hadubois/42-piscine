@@ -8,13 +8,15 @@ I learn about UNIX environement, basic C programming using pointers, memory mana
 ```
 .
 ├── C00
-│   ├── subject.pdf
-│   └── exercices/
+│   ├── ex00
+│   ├── ...
+│   └── ex07
 │
 ├── ...
 │
-└── C06
-    ├── subject.pdf
-    └── exercices/
+└── shell01
+    ├── ex00
+    ├── ...
+    └── ex05
 ```
 
